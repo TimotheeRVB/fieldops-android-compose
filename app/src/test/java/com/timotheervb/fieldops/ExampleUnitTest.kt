@@ -1,4 +1,4 @@
-package com.example.fieldops
+package com.timotheervb.fieldops
 
 import org.junit.Test
 

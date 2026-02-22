@@ -1,4 +1,4 @@
-package com.example.fieldops.ui.theme
+package com.timotheervb.fieldops.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
