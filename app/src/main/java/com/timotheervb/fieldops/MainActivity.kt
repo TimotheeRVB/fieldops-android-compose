@@ -46,9 +46,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             FieldOpsTheme {
                 Surface(modifier = Modifier.fillMaxSize()) {
-                    Conversation(
-                        SampleData.conversationSample
-                    )
+                    AuthScreen() { email, password -> {} }
                 }
             }
         }
